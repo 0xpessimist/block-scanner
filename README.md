@@ -7,6 +7,8 @@ Block Scanner is designed to be easy to use and accessible to both novice and ex
 
 ## Commands
 
+‼️ The URL below is deprecated and will be updated in the future.
+
 For all bot commands and how to use them, visit: https://blockscanner.erenthe.dev/guide/commands
 
 ## Support
